@@ -1,5 +1,3 @@
 # google-homepage
 
-This is a project to de-and-re-construct a website. I will be using google.com, it's like AskJeeves.com but slightly better :joy:
-
-# takeaways
+This is an Odin Project project to de-and-re-construct Google's homepage. If anyone happens to actually look at this, be sure to check out the videos and gifs! :smile:
