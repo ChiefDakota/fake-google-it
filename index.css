@@ -1,5 +1,5 @@
 body {
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
   background: #fff;
   color: #222;
 }
@@ -64,7 +64,7 @@ img#logo {
   top: 12.5px;
   height: 30px;
   width: 100%;
-  text-align:center;
+  text-align: center;
 }
 
 #header-left {
@@ -98,17 +98,17 @@ img#logo {
   background: white;
   vertical-align: top;
   border-radius: 2px;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
   transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
   display: block;
 }
 
 #search-box:hover {
-  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2), 0 0 0 1px rgba(0,0,0,0.08);
+  box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.08);
 }
 
 #search-box-text {
-  font: 16px arial,sans-serif;
+  font: 16px arial, sans-serif;
   line-height: 34px;
   height: 34px;
   width: 403px;
@@ -122,7 +122,7 @@ img#logo {
 .search-btn {
   height: 36px;
   line-height: 27px;
-  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
   -webkit-border-radius: 2px;
   -webkit-user-select: none;
   background-color: #f2f2f2;
@@ -130,7 +130,7 @@ img#logo {
   border-radius: 2px;
   color: #757575;
   cursor: default;
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
   font-size: 13px;
   font-weight: bold;
   margin: 11px 4px;
@@ -140,13 +140,13 @@ img#logo {
 }
 
 .search-btn:hover {
-  background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
-  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  background-image: -webkit-linear-gradient(top, #f8f8f8, #f1f1f1);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   background-color: #f8f8f8;
-  background-image: linear-gradient(top,#f8f8f8,#f1f1f1);
-  background-image: -o-linear-gradient(top,#f8f8f8,#f1f1f1);
+  background-image: linear-gradient(top, #f8f8f8, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f8f8f8, #f1f1f1);
   border: 1px solid #c6c6c6;
-  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   color: #222;
 }
 
